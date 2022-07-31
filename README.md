@@ -6,5 +6,4 @@
 
 
 ### Demo
-
-![](https://drive.google.com/file/d/1X-6fsDCyQqY--jfveYSJ1VoZbsQ9L4x9/view?usp=sharing)
+![N|](https://raw.githubusercontent.com/muzammilsiddiq/jetpack-compose-starter/master/Jetpack%20Compose.mp4)
