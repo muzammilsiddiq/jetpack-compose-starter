@@ -6,4 +6,4 @@
 
 
 ### Demo
-![N|](https://raw.githubusercontent.com/muzammilsiddiq/jetpack-compose-starter/master/Jetpack%20Compose.mp4)
+![N|](https://raw.githubusercontent.com/muzammilsiddiq/jetpack-compose-starter/master/Jetpack%20Compose.gif)
